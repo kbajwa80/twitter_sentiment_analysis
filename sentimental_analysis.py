@@ -13,13 +13,13 @@ targettwitterprofile = 'JustinTrudeau'
 #query = 'realDonaldTrump'
 
 #Plotly account credentials
-plotly.tools.set_credentials_file(username='bajwa.kanwar',api_key='VEYcqOPQsxNyBR1OTSfd')
+plotly.tools.set_credentials_file(username='XXXX',api_key='XXXX')
 
 #twitter credentials
-consumer_key = 'KXlx4t7eL36ysgJ11XItfBZkG'
-consumer_secret = 'ce2Bwwr707inZs2xLKdVgUQFIhgn9WTKeNu8jrS2nUgmSJw1jy'
-access_token = '1264541900-32en3h7mmRpdjT1t6ynqpBtQr1jDSgelygWFo3Y'
-access_token_secret = 'VSzTy2jfmHXejsYRRS5E9ISe53fY01Ms8bNMAwMYktNKE'
+consumer_key = 'XXXX'
+consumer_secret = 'XXXX'
+access_token = 'XXXXY'
+access_token_secret = 'XXXXX'
 
 # attempt authentication 
 try: 
