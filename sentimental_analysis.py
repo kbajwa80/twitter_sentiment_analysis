@@ -1,3 +1,4 @@
+#/usr/bin/python
 import tweepy
 import pandas as pd
 import plotly.plotly as py
